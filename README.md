@@ -14,11 +14,11 @@ El repositorio está configurado para su uso con Visual Studio Code, Clang y Cla
 
 Antes de comenzar, compruebe que tiene instaladas las siguientes herramientas:
 
-- [Visual Studio Code](https://code.visualstudio.com)
-- [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+- [Visual Studio Code](https://code.visualstudio.com). Con las extensiones:
+  - [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)
+  - [vscode-clang-format](https://github.com/xaverh/vscode-clang-format)
 - [Clang](https://clang.llvm.org)
 - [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
-- [vscode-clang-format](https://github.com/xaverh/vscode-clang-format)
 
 ## Ejecución y depuración
 
