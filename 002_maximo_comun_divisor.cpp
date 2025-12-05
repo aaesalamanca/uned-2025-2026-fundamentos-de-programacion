@@ -28,7 +28,7 @@ int main() {
     half_first_number = first_number / 2;
 
     for (int i = half_first_number; i > 0 && greatest_common_divisor == 0;
-         i--) {
+         i -= 1) {
       if ((first_number % i == 0) && (second_number % i == 0)) {
         greatest_common_divisor = i;
       }
